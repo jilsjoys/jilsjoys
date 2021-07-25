@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/auT4FW93B29rO/giphy.gif" height="200"/>
+<p align="center"> <img src="https://media.giphy.com/media/auT4FW93B29rO/giphy.gif" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jils A J</h1>
