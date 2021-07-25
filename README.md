@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    This is ME, Jils A J, a <b>final year</b> undergraduate from <a href="https://cce.edu.in/"> <b>Christ College of Engineering</b>, Irinjalakuda</a>. <br>
+    This is me, Jils A J, a <b>final year</b> undergraduate from <a href="https://cce.edu.in/"> <b>Christ College of Engineering</b>, Irinjalakuda</a>. <br>
     A budding <b>Front End Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -31,9 +31,9 @@
 
 
 
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Package_**<br>
 
+✔ Mazha , chaya ,Johnson mash...Aaaha andhass <br>
+<br>
 ✔ u Don't WOrry, I woRry😉<br>
 ✔ Fun fact : *Code when you are bored*<br><br><br><br>
  
