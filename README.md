@@ -7,9 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jils-a-j-a052aa184" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="Jils" height="50" width="50" /></a>
 <a href="https://www.instagram.com/jils_joys/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="Jils A J" height="50" width="50" /></a>
-
-
- <a href = "mailto: jilsjoyson111@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "mailto: jilsjoyson111@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail-new.png" height="50" width="40" /></a>
 </p>
 </p>
 
