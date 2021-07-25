@@ -2,7 +2,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jils A J</h1>
-<h3 align="center">BTech in Computer Science and Engineering | Front End Developer </h3>
+<h3 align="center">B Tech in Computer Science and Engineering | Flutter Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jils-a-j-a052aa184" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="Jils" height="50" width="50" /></a>
 <a href="https://www.instagram.com/jils_joys/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="Jils A J" height="50" width="50" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jilsjoys&label=Profile%20views&color=0e75b6&style=flat" alt="jils" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="coding" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
